@@ -1,6 +1,6 @@
 # Calcula o valor de x usando a fórmula de Bhaskara
 # Versões
-# 0.1 Primeira implementação, para testes
+# 0.1 23/08/2023 Primeira implementação, para testes
 
 a = float(input("Digite o valor de a: "))
 b = float(input("Digite o valor de b: "))
